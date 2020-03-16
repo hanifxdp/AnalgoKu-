@@ -1,6 +1,5 @@
 # ANALGORITMA WERKSHEET
-Analisis Algoritma 2020 -- 
+Analisis Algoritma 2020
 ## Description
-Hanif Dwi Prasetiyo -- 140810180035
-
-
+* **Nama**    :   Hanif Dwi Prasetiyo
+* **NPM**     :   140810180035
