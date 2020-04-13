@@ -38,7 +38,7 @@ Cari _minimum spanning tree_ pada graf di bawah dengan Algoritma Kruskal. Jelask
 
 # Soal No. 2
 Gambarkan 3 buah _minimum spanning tree_ yang berbeda beserta bobotnya untuk graf di bawah dengan Algoritma Prim. Jelaskan setiap langkah untuk membangun *minimum spanning tree*.
-![Soal No. 2][no2.PNG]
+![exec soal 2][no2.PNG]
 
 ## Jawab
 **Langkah 1** - Menentukan titik awal graph
@@ -57,3 +57,10 @@ Apakah semua _minimum spanning tree T_ dari graf terhubung *G* harus mengandung 
 ## Jawab
 
 Benar, mengandung jumlah yang sama, karena dalam algoritma tersebut memiliki tujuan untuk mengunjungi ke semua titik dengan beban yang minimum sehingga semua titik dalam graph tersebut dapat dikunjungi.
+
+
+[no1.PNG]   : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no1.PNG
+[no1a.PNG]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no1a.PNG
+[no2a.PNG]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no2.PNG
+[no2b.PNG]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no2b.PNG
+[no2c.PNG]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no2c.PNG
