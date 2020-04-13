@@ -14,8 +14,8 @@ Cari _minimum spanning tree_ pada graf di bawah dengan Algoritma Kruskal. Jelask
 
 **Langkah 2** - Mengatur semua *edge* pada graf dari yang terkecil ke terbesar.
 
---------- | ------------
 1,2 | 10
+------------ | -------------
 3.6 | 15
 4,6	| 20
 2,6 | 25
@@ -25,6 +25,9 @@ Cari _minimum spanning tree_ pada graf di bawah dengan Algoritma Kruskal. Jelask
 1,5	| 45
 2,3	| 50
 5,6 | 55
+1,2 | 10
+
+
 
 **Langkah 3** - Menambahkan *edge* dengan bobot paling kecil, lakukan dan jangan sampai membentuk sirkuit
 ![Jawaban No.1][no_1_a]
