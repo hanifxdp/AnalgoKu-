@@ -5,12 +5,12 @@
 
 ## Soal No.1 
 Cari _minimum spanning tree_ pada graf di bawah dengan Algoritma Kruskal. Jelaskan langkah demi langkah sampai graf membentuk *minimum spanning tree*.
-![exec soal 1][no1.PNG]
+![exec soal 1][no1]
 
 
-### Jawab
+## Jawab
 **Langkah 1** - Menghapus semua *loop* dan *parallel edges*.
-![exec soal 1][no1.PNG]
+![exec soal 1][no1]
 
 **Langkah 2** - Mengatur semua *edge* pada graf dari yang terkecil ke terbesar.
 
@@ -30,7 +30,7 @@ Cari _minimum spanning tree_ pada graf di bawah dengan Algoritma Kruskal. Jelask
 
 
 **Langkah 3** - Menambahkan *edge* dengan bobot paling kecil, lakukan dan jangan sampai membentuk sirkuit
-![exec soal 1][no1a.PNG]
+![exec soal 1][no1a]
 
 > ***'minimum spanning tree terbentuk'***
 
@@ -38,17 +38,17 @@ Cari _minimum spanning tree_ pada graf di bawah dengan Algoritma Kruskal. Jelask
 
 # Soal No. 2
 Gambarkan 3 buah _minimum spanning tree_ yang berbeda beserta bobotnya untuk graf di bawah dengan Algoritma Prim. Jelaskan setiap langkah untuk membangun *minimum spanning tree*.
-![exec soal 2][no2.PNG]
+![exec soal 2][no2]
 
 ## Jawab
 **Langkah 1** - Menentukan titik awal graph
-![Jawaban No. 2_1][no2a.PNG]
+![Jawaban No. 2_1][no2a]
 
 **Langkah 2** - Menentukan simpul dengan minimum key value
-![Jawaban No. 2_2][no2b.PNG]
+![Jawaban No. 2_2][no2b]
 
 **Langkah 3** - Ulangi langkah kedua sampai semua terdapat tree
-![Jawaban No. 2_2][no2c.PNG]
+![Jawaban No. 2_2][no2c]
 
 
 # Soal No. 3
@@ -59,8 +59,8 @@ Apakah semua _minimum spanning tree T_ dari graf terhubung *G* harus mengandung 
 Benar, mengandung jumlah yang sama, karena dalam algoritma tersebut memiliki tujuan untuk mengunjungi ke semua titik dengan beban yang minimum sehingga semua titik dalam graph tersebut dapat dikunjungi.
 
 
-[no1.PNG]   : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no1.PNG
-[no1a.PNG]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no1a.PNG
-[no2a.PNG]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no2.PNG
-[no2b.PNG]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no2b.PNG
-[no2c.PNG]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no2c.PNG
+[no1]   : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no1.PNG
+[no1a]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no1a.PNG
+[no2a]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no2.PNG
+[no2b]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no2b.PNG
+[no2c]  : https://github.com/hanifxdp/AnalgoKu-/blob/master/AnalgoKu7/no2c.PNG
