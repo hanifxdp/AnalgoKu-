@@ -5,12 +5,12 @@
 
 ## Soal No.1 
 Cari _minimum spanning tree_ pada graf di bawah dengan Algoritma Kruskal. Jelaskan langkah demi langkah sampai graf membentuk *minimum spanning tree*.
-![Soal No. 1][no_1]
+![exec soal 1][no_1.PNG]
 
 
 ### Jawab
 **Langkah 1** - Menghapus semua *loop* dan *parallel edges*.
-![Soal No. 1][no_1]
+![exec soal 1][no_1.PNG]
 
 **Langkah 2** - Mengatur semua *edge* pada graf dari yang terkecil ke terbesar.
 
@@ -30,7 +30,7 @@ Cari _minimum spanning tree_ pada graf di bawah dengan Algoritma Kruskal. Jelask
 
 
 **Langkah 3** - Menambahkan *edge* dengan bobot paling kecil, lakukan dan jangan sampai membentuk sirkuit
-![Jawaban No.1][no_1_a]
+![exec soal 1][no_1_a.PNG]
 
 > ***'minimum spanning tree terbentuk'***
 
@@ -38,17 +38,17 @@ Cari _minimum spanning tree_ pada graf di bawah dengan Algoritma Kruskal. Jelask
 
 # Soal No. 2
 Gambarkan 3 buah _minimum spanning tree_ yang berbeda beserta bobotnya untuk graf di bawah dengan Algoritma Prim. Jelaskan setiap langkah untuk membangun *minimum spanning tree*.
-![Soal No. 2][no_2]
+![Soal No. 2][no_2.PNG]
 
 ## Jawab
 **Langkah 1** - Menentukan titik awal graph
-![Jawaban No. 2_1][no_2_a]
+![Jawaban No. 2_1][no_2_a.PNG]
 
 **Langkah 2** - Menentukan simpul dengan minimum key value
-![Jawaban No. 2_2][no_2_b]
+![Jawaban No. 2_2][no_2_b.PNG]
 
 **Langkah 3** - Ulangi langkah kedua sampai semua terdapat tree
-![Jawaban No. 2_2][no_2_b]
+![Jawaban No. 2_2][no_2_c.PNG]
 
 
 # Soal No. 3
